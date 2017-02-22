@@ -2,4 +2,3 @@ hello
 good
 yesterday
 commit
-morning
